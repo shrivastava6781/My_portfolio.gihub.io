@@ -129,7 +129,7 @@ function showCard() {
 function cvDownload() {
   document.querySelector("#cv").addEventListener("click", function (e) {
     window.location.href =
-      "https://drive.google.com/file/d/1Xl4SFx81OyXQG3FwanQ07O2PNWiPXL_U/view?usp=drive_link";
+      "https://drive.google.com/file/d/1Ea4xTWLWOuLTjYkk-zwkSfi_JD6stF91/view?usp=sharing";
   });
 }
 function writeMessage() {
